@@ -1,0 +1,20 @@
+{
+  "name": "quiz-server",
+  "version": "1.0.0",
+  "description": "Handle server request",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.3",
+    "nodemon": "^3.1.4",
+    "validator": "^13.12.0"
+  }
+}
