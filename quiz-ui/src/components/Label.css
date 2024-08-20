@@ -1,0 +1,18 @@
+label.label {
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.88);
+    display: block;
+    margin-top: 10px;
+}
+
+label.label.bold-label { 
+    font-weight: bold;
+}
+
+label.label.label-margin-0 {
+    margin: 0;
+}
+
+label.label.label-margin-0 {
+    display: inline;
+}

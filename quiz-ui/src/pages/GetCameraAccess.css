@@ -1,0 +1,13 @@
+div.camer-conatiner {
+    height: 100vh;
+    width: 100vw;
+}
+
+video#video-ref {
+    height: 100%;
+    width: 115%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

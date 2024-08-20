@@ -1,0 +1,7 @@
+div.option-container div.radio-button {
+    margin-block: 10px;
+}
+
+input[type="radio"].radio-margin-right-10 {
+    margin-right: 10px;
+}
